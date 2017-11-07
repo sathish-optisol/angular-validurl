@@ -1,0 +1,12 @@
+{
+    "name": "angular-validurl",
+    "description": "angular-validurl is a jQuery based replacement for valid url in angular js .",
+    "main": [
+        "angular.js",
+           ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sathish-optisol/angular-validurl.git"
+    }
+}
